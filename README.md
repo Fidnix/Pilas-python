@@ -36,5 +36,5 @@ Este proyecto es una implementación personal y educativa de las pilas aplicadas
 
 # Motivacion de este proyecto
 
-* Mi mama
+* Mi mamá
 * No reprobar EDPM
